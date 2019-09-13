@@ -48,6 +48,7 @@
 | short    | 2字节        | -2<sup>15</sup>～2<sup>15</sup>-1  |
 | int      | 4字节        | -2<sup>31</sup> ～2<sup>31</sup>-1 |
 | long     | 8字节        | -2<sup>63</sup> ～2<sup>63</sup>-1 |
+
 **long类型特殊赋值方式** :long a = 2L，在数字后加L 
 #### 浮点类型：float、double
 
