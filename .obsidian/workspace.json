@@ -186,8 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1348374dc2e03cdf",
+  "active": "77c17ab7e35a495c",
   "lastOpenFiles": [
+    "notes/nvim.md",
+    "notes/git.md",
     "py_notes/集合操作符.md",
     "py_notes/集合处理方法.md",
     "py_notes/序列类型通用函数和方法.md",
@@ -204,9 +206,7 @@
     "py_notes/function.md",
     "py_notes/book.md",
     "py_notes",
-    "notes/nvim.md",
     "notes/MySQL笔记.html",
-    "notes/git.md",
     "notes",
     "java_note/String.png",
     "java_note/mianxiangduixiang.png",
