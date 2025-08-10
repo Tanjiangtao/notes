@@ -1,0 +1,3 @@
+  
+# 忽略整个 remotely-save 插件文件夹
+.obsidian/plugins/remotely-save/
